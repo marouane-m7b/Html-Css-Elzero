@@ -1509,6 +1509,9 @@ ul {
   margin: 50px 0 0;
   border-top: 1px solid #444;
 }
+.footer .copyright a {
+  color: var(--main-color);
+}
 /* End Footer */
 /* Start Animation */
 @keyframes up-and-down {
